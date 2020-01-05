@@ -1,0 +1,13 @@
+<core:FragmentDefinition
+	xmlns="sap.m"
+	xmlns:core="sap.ui.core">
+	<SelectDialog title="Animals"
+	              id="animalsSelectDialog"
+	              items="{animals>/names}"
+	              liveChange="onLiveChange">
+		<StandardListItem
+			title="{animals>Name}"
+			description="{animals>Place}">
+		</StandardListItem>
+	</SelectDialog>
+</core:FragmentDefinition>

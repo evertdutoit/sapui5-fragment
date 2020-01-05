@@ -1,0 +1,23 @@
+{
+	"names": [{
+		"icon": "sap-icon://sap-ui5",
+		"Name": "Dinosaur",
+		"Place": "Mountain"
+	}, {
+		"icon": "sap-icon://general-leave-request",
+		"Name": "Elephant",
+		"Place": "Forest"
+	}, {
+		"icon": "sap-icon://map-2",
+		"Name": "Whale",
+		"Place": "Sea"
+	}, {
+		"icon": "sap-icon://travel-expense",
+		"Name": "Duck",
+		"Place": "Water"
+	}, {
+		"icon": "sap-icon://accept",
+		"Name": "Monkey",
+		"Place": "Tree"
+	}]
+}
